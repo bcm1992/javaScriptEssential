@@ -1,0 +1,9 @@
+{
+    "authors":[
+        {"name":"some one", "year": 2001},
+        {"name":"some two", "year": 2012},
+        {"name":"some X", "year": 2004},
+        {"name":"Mr. Y", "year": 2018},
+        {"name":"Zombie S", "year": 2007}
+    ]
+}
